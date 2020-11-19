@@ -1,2 +1,2 @@
 # frontendtfundamentals
-final project from front end fundamentals course from purple.com
+final project from front end fundamentals course from pirple.com
